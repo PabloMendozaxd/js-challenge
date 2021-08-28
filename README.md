@@ -14,3 +14,12 @@ Al sumar números realizamos operaciones aritmeticas que generan un valor result
 ¿Cuál operador me permite sumar o concatenar?
 
 El signo de +
+
+¿Qué es una función?
+Es un bloque de codigo que realizará una tarea en especifico, para lograrlo puede recibir parametros y retornar un valor.
+
+¿Cuándo me sirve usar una función en mi código?
+Cuando realizaremos la misma tarea, tenemos bien definidas las entradas necesarias y esperamos un valor de retorno
+
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+Un parametro es una variable que está en la definición de una función, argumento son los datos que se le pasan a los parametros de una función
